@@ -4,22 +4,27 @@ A Windows PCVR application for viewing 360° videos on the HTC VIVE headset, bui
 
 ---
 
-## Contents of This Repository
+## Downloads
+
+Unity Project Folder & Step by Step Guide are available on the [**Releases page**](../../releases/latest):
 
 | File | Description |
 |------|-------------|
-| `360-Video-Viewer-App.zip` | Complete Unity project (attached in Releases) |
-| `StepbyStep-Guide.pdf` | Step-by-step build and usage guide |
+| `360-Viewer-App.zip` | The complete Unity project |
+| `StepbyStep-Guide.pdf` | Step-by-step guide for setting up and using the application |
 
-> The Unity project zip file is available under [**Releases**](../../releases). See the setup guide PDF for build instructions.
+**To download:**
+1. Go to the [**Releases**](../../releases/latest) tab on this page
+2. Under **Assets** click on either file to download it
+3. Follow Youtube Tutorial or the instructions in `StepbyStep-Guide.pdf` to get started
 
 ---
 
 ## Features
 
-- 360° video playback in VR (HTC VIVE / Windows PCVR)
+- 360° video playback in VR
 - Stereoscopic 3D and standard 2D video support
-- Ambisonic spatial audio up to 4 channels (AmbiX format)
+- Ambisonic spatial audio up to 4 channels (AmbiX format) support
 - Optimized for large, high-resolution video files
 
 ---
@@ -31,8 +36,8 @@ A Windows PCVR application for viewing 360° videos on the HTC VIVE headset, bui
 | 2D | 6144 × 3072 |
 | 3D (Stereoscopic) | 6144 × 6144 |
 
-- **Preferred format:** MP4
-- **Preferred codec:** H.265 (HEVC)
+- Preferred format: MP4
+- Preferred codec: H.265 (HEVC)
 - Stereoscopic 3D videos must be formatted **left eye on top** (top-bottom layout)
 
 ---
@@ -41,16 +46,17 @@ A Windows PCVR application for viewing 360° videos on the HTC VIVE headset, bui
 
 - Mono and stereo audio
 - Ambisonic audio up to **4 channels**, encoded in **AmbiX format**
-- **Preferred format:** WAV
+- Preferred format: WAV
 
 ---
 
 ## Getting Started
 
-Refer to the **StepbyStep-Guide.pdf** included in this repository for step-by-step instructions on how to build and run the application from the Unity project.
+Refer to the **Setup-Guide.pdf** included in this repository for step-by-step instructions on how to build and run the application from the Unity project.
 
 ### Requirements
 
 - Unity (see setup guide for recommended version)
 - Windows PC with SteamVR installed
 - HTC VIVE headset
+
