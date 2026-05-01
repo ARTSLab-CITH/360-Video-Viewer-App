@@ -14,7 +14,7 @@ Unity Project Folder & Step by Step Guide are available on the [**Releases page*
 | `StepbyStep-Guide.pdf` | Step-by-step guide for setting up and using the application |
 
 **To download:**
-1. Go to the [**Releases**](../../releases/latest) tab on this page
+1. Go to the [**Releases Page**](../../releases/latest)
 2. Under **Assets** click on either file to download it
 3. Follow Youtube Tutorial or the instructions in `StepbyStep-Guide.pdf` to get started
 
@@ -52,11 +52,14 @@ Unity Project Folder & Step by Step Guide are available on the [**Releases page*
 
 ## Getting Started
 
-Refer to the **Setup-Guide.pdf** included in this repository for step-by-step instructions on how to build and run the application from the Unity project.
+Refer to the **StepbyStep-Guide.pdf** for step-by-step instructions on how to build and run the application from the Unity project.
 
 ### Requirements
 
-- Unity (see setup guide for recommended version)
-- Windows PC with SteamVR installed
+- Unity (6000.2.8) 
+- Windows PC
+- VIVE HUB & SteamVR
 - HTC VIVE headset
+- HTC VIVE Streaming Kit
+- HTC VIVE Wired Streaming Cable 
 
